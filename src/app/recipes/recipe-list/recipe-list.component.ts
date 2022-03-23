@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       'This is simply a test',
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg'
     ),
+    new Recipe(
+      'A test Recipe',
+      'This is simply a test',
+      'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg'
+    ),
   ];
 
   constructor() {}
